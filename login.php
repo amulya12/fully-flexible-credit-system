@@ -2,7 +2,7 @@
 <html lang="en"> 
 <head> 
 <meta charset="utf-8"> 
-<title>Welcome</title> 
+<title>Welcome</title>  // displays the main page
 </head> 
 <body background="image.jpg"> 
 <?php 
